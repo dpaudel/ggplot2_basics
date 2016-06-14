@@ -8,6 +8,7 @@ output: pdf_document
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+Introduction to ggplot2
 
 Learning ggplot2 basics:
 ggplot2 works on the concept of layers so you can add one layer on top of the other.
